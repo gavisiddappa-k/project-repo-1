@@ -1,0 +1,3 @@
+[submodule "project-repo-2"]
+	path = project-repo-2
+	url = https://github.com/gavisiddappa-k/project-repo-2.git
